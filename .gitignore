@@ -1,0 +1,7 @@
+venv
+.idea
+.vscode
+doc
+!ntru/*.py
+__pycache__
+test
